@@ -41,20 +41,20 @@ The model was tested at four different resolutions:
 - 60x80
 
 <p align="center">
-    <img src="data/multi_resolution_yunet_test.jpg" width="300"/>
+    <img src="data/multi_resolution_yunet_test.jpg" width="1200"/>
 </p>
 
 ## Resolution vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_resolution.jpg" width="300"/>
+    <img src="data/rpi_yunet_resolution.jpg" width="1200"/>
 </p>
 
 ## CPU Frequency vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_cpu_freq.jpg" width="300"/>
+    <img src="data/rpi_yunet_cpu_freq.jpg" width="1200"/>
 </p>
 
 ## Number of CPU Cores vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_cpu_num.jpg" width="300"/>
+    <img src="data/rpi_yunet_cpu_num.jpg" width="1200"/>
 </p>
