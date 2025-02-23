@@ -21,7 +21,7 @@ We used the image [NH 96919-KN.jpeg](images/NH%2096919-KN.jpeg) of Grace Hopper 
 ### Hardware
 Four different Raspberry Pi boards were tested:
 - [Raspberry Pi 5 Model B Rev 1.0](https://www.raspberrypi.com/products/raspberry-pi-5/)
-- [Raspberry Pi 4 Model B Rev 1.1](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
+- [Raspberry Pi 4 Model B Rev 1.1](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 - [Raspberry Pi Zero 2 W Rev 1.0](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 - [Raspberry Pi 3 Model B Rev 1.2](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
 
@@ -46,15 +46,15 @@ The model was tested at four different resolutions:
 
 ## Resolution vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_resolution.jpg" width="1200"/>
+    <img src="data/rpi_yunet_resolution.jpg" width="800"/>
 </p>
 
 ## CPU Frequency vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_cpu_freq.jpg" width="1200"/>
+    <img src="data/rpi_yunet_cpu_freq.jpg" width="800"/>
 </p>
 
 ## Number of CPU Cores vs Inference Time
 <p align="center">
-    <img src="data/rpi_yunet_cpu_num.jpg" width="1200"/>
+    <img src="data/rpi_yunet_cpu_num.jpg" width="800"/>
 </p>
